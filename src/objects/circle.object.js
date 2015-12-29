@@ -1,4 +1,4 @@
-import GameObject from './object.js';
+import GameObject from '../lib/object.game.js';
 
 export default class extends GameObject {
     constructor() {
